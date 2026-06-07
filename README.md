@@ -16,12 +16,14 @@ Respectful scraping with custom User-Agent and DOWNLOAD_DELAY to avoid getting b
 1. Clone the repo
 
 git clone https://github.com/kamankeshalireza/ecommerce_scraper.git
+2.
 cd ecommerce_scraper
 
 3. Install dependencies
 
 pip install -r requirements.txt
-3. Run the spider (example)
+
+4. Run the spider (example)
 
 scrapy crawl product_spider -o products.json
 💡 Replace product_spider with the actual name of your spider (check inside the spiders/ folder).
