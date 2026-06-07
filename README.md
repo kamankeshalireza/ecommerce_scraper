@@ -16,6 +16,7 @@ Respectful scraping with custom User-Agent and DOWNLOAD_DELAY to avoid getting b
 1. Clone the repo
 
 git clone https://github.com/kamankeshalireza/ecommerce_scraper.git
+
 2.
 cd ecommerce_scraper
 
